@@ -1,0 +1,4 @@
+# Files
+__pycache__/
+configs.py
+*.mp3
